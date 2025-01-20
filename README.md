@@ -14,7 +14,7 @@ Installation
 
 1. Clone the Repository
 
-$ git clone https://github.com/your-username/fraud-detection-system.git
+$ git clone https://github.com/vjaykr/fraud-detection-system.git
 $ cd fraud-detection-system
 
 2. Set Up Virtual Environment
